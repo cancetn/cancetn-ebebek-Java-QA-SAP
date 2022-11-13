@@ -1,2 +1,2 @@
-# cancetn-ebebek-Java-QA-SAP
-cancetn/ebebek-Java-QA-SAP Bootcamp
+# ebebek-Java-QA-SAP Practicum
+ebebek-Java-QA-SAP Practicum Cases
